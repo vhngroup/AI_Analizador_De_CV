@@ -6,6 +6,7 @@ En este ejemplo a través del prompt de lenguaje natural, se le puede pedir al m
 * Enumere las competencias del candidato que se ajustan a los requisitos del puesto.
 * Indique los vacios existentes entre la experiencia del candidato y los requisitos del puesto.
 * Proporcione una puntuación porcentual sobre la adecuación del candidato al puesto de trabajo (0-100%)
+
 Se ha usado la API de OpenAI y el modelo "GPT-4".
 Para dar más precisión a los resultados se ha utilizado un agente de OpenAI lo que nos permite poder hacer preguntas en un lenguaje mas natural y con respuestas mas precisas.
 ### Uso:

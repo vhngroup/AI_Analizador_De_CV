@@ -1,0 +1,7 @@
+streamlit
+utils
+PyPDF2
+docx2txt
+python-dotenv
+openai
+pymupdf #fitz

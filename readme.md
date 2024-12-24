@@ -1,5 +1,5 @@
 ## Analizador de hojas de vida y clasificador de posibles candidatos ##
-![Ejemplo](https://github.com/vhngroup/excel_form_with_tkinter_openpyxl/blob/main/static/screen.png)
+![Ejemplo](https://github.com/vhngroup/AI_Analizador_De_CV/blob/main/images/image.png)
 ### Herramienta:
 En este ejemplo a través del prompt de lenguaje natural, se le puede pedir al modelo que analice y responda a los siguientes interrogantes:
     - ¿Cumple el candidato los requisitos del puesto? (sí/no)
